@@ -1,0 +1,25 @@
+{
+  "name": "expressjsAuthJWT",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liladhark3/expressjsAuthJWT.git"
+  },
+  "author": "liladhark3",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/liladhark3/expressjsAuthJWT/issues"
+  },
+  "dependencies": {
+    "morgan": "~1.6.1",
+    "body-parser": "~1.13.1",
+    "express": "~4.13.0",
+    "jsonwebtoken": "~5.0.2",
+    "mongoose": "~4.0.6"
+  }
+}
